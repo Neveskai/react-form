@@ -1,0 +1,23 @@
+{
+  "name": "@neveskai/react-form",
+  "version": "0.0.1",
+  "description": "A custom hook to create and manage forms",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neveskai/izi-react-form.git"
+  },
+  "keywords": [
+    "react",
+    "form"
+  ],
+  "author": "Wendell S. Neves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neveskai/izi-react-form/issues"
+  },
+  "homepage": "https://github.com/Neveskai/izi-react-form#readme"
+}
